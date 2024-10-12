@@ -19,7 +19,7 @@ AsyncMediaSelector é um projeto web interativo desenvolvido com Django, HTMX e 
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/Django-Dev-Br/001-django5-basic-project.git
+    git clone https://github.com/Django-Dev-Br/htmx-async-media-selector-.git
     ```
 
 2. **Crie  um ambiente virtual no diretório root**:
@@ -47,7 +47,7 @@ AsyncMediaSelector é um projeto web interativo desenvolvido com Django, HTMX e 
     
 4. **Acesse a pasta do projeto Django**:
     ```bash
-    cd 001-django4-basic-project
+    cd htmx-async-media-selector-
     ```
     
 5. **Instale o Django**:
